@@ -1,0 +1,53 @@
+[1221/092758.269:ERROR:settings.cc(320)] Settings magic is not 1129342067
+[1221/092758.276:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1221/093758.353:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1221/093758.376:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1221/094259.246:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1221/095036.609:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1221/095759.247:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1221/101259.248:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1221/102326.555:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1221/102759.249:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1221/104259.259:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1221/105759.260:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1221/110107.571:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1221/110454.866:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1221/110641.032:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1221/110759.357:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1221/111259.262:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1221/111333.316:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1221/111625.404:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1221/112759.263:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1221/114259.265:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1221/115759.267:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1221/121259.268:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1221/122759.270:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1221/124259.272:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1221/125759.274:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1221/131259.275:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1221/132759.280:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1221/134303.379:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1221/135803.381:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1221/141303.383:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1221/142803.383:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1221/144303.387:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1221/145026.948:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1221/145803.388:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1221/151303.390:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1221/152803.390:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1221/154303.393:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1221/155803.393:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1221/161303.394:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1221/162803.396:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1221/164303.396:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1221/165325.193:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1221/165803.396:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1221/171303.397:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1221/172803.399:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1221/174303.456:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1221/175803.457:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1221/175839.262:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1221/175900.640:ERROR:http_transport_win.cc(276)] WinHttpSendRequest: 操作成功完成。 (0x0)
+[1221/215439.237:ERROR:http_transport_win.cc(276)] WinHttpSendRequest: 操作成功完成。 (0x0)
+[1222/084621.594:ERROR:http_transport_win.cc(276)] WinHttpSendRequest: 操作成功完成。 (0x0)
+[1223/105130.593:ERROR:http_transport_win.cc(276)] WinHttpSendRequest: 操作成功完成。 (0x0)
