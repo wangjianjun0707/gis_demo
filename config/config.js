@@ -105,6 +105,12 @@ export default {
               component: "./Welcome"
             },
             {
+              path: "/circle",
+              name: "circle",
+              icon: "smile",
+              component: "./draw/circle"
+            },
+            {
               path: "/mapbox",
               name: "MapBox",
               icon: "smile",

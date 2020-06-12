@@ -99,6 +99,22 @@ const routes = [
             exact: true
           },
           {
+            path: "/circle",
+            name: "circle",
+            icon: "smile",
+            component: __IS_BROWSER
+              ? _dvaDynamic({
+                  component: () =>
+                    import(
+                      /* webpackChunkName: "p__draw__circle" */ "../draw/circle"
+                    ),
+                  LoadingComponent: require("/Users/wangjianjun/IdeaProjects/gis_demo/src/components/PageLoading/index")
+                    .default
+                })
+              : require("../draw/circle").default,
+            exact: true
+          },
+          {
             path: "/mapbox",
             name: "MapBox",
             icon: "smile",
